@@ -104,7 +104,6 @@ nav a {
     font-family: var(--font-serif);
     font-size: 1.05rem;
     font-weight: 400;
-    font-style: italic;
     letter-spacing: 0.01em;
     color: var(--color-ink-muted);
     position: relative;
