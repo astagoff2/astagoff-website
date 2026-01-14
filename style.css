@@ -234,7 +234,6 @@ main {
 
 .contact-link:hover {
     color: var(--color-ink);
-    letter-spacing: 0.1em;
 }
 
 .contact-icon {
