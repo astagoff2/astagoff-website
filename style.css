@@ -148,8 +148,8 @@ main {
 
 .hero-inner {
     display: grid;
-    grid-template-columns: 220px 1fr;
-    gap: 3.5rem;
+    grid-template-columns: 180px 1fr;
+    gap: 3rem;
     align-items: start;
 }
 
@@ -345,7 +345,7 @@ footer {
 
     .profile-container {
         position: static;
-        max-width: 200px;
+        max-width: 160px;
     }
 
     .bio-text {
